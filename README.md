@@ -51,6 +51,13 @@ A simple and structured PostgreSQL database schema for managing water supply ope
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Team Members
 
-**DA-IICT | Team Code_Sorcerers**
+| MEMBERS           | ID        |
+|-------------------|-----------|
+| Tushal Mendpara   | 202301141 |
+| Darshan Ramani    | 202301161 |
+| Manav Patel       | 202301158 |
+| Ved Donda         | 202301186 |
+
+
